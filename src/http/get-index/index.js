@@ -7,11 +7,11 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Your Name', // ←  Start by adding your name!
-    title: 'My personal site!',
-    occupation: 'Artist & Photographer',
-    location: 'West Glacier, MT',
-    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
+    fullname: '🐢tortoise capital', // ←  Start by adding your name!
+    title: 'tortoise capital',
+    occupation: 'building, acquiring, and running small SaaS businesses',
+    location: 'Vancouver, BC',
+    bio: 'We focus on starting small businesses. Instead of growth at any cost, which leads to constant fire fighting, questionable business practices, and worse. Our path is about small, profitable, low overhead businesses. We trade building a hiring practice for a fungible group of well paid, remote work, contractors. Instead of trying to discover new marketing channels for each stage of growth, we build products to work with a handful of known channels. Issues like technical debt and product architecture are minimized by constraining features and knowing that all products have a shelf life. The constraints of building small frees our creativity.',
 
     /**
      * Contact / social
