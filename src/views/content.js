@@ -34,7 +34,7 @@ module.exports = function Content (props) {
       justify-content-center-large
       flex-grow-1
       flex-grow-2-large
-      max-width-35
+      max-width-100
       margin-right-auto
       margin-left-auto
       padding-48
